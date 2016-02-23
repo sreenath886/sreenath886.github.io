@@ -1,0 +1,20 @@
+
+			.post-title a{color: #000;}
+		
+			.post-title a:hover{color: #0099CC;}
+		
+			.copy a, .date a{color: #000;}
+		
+			.copy a:hover, .date a:hover{color: #0099CC;}
+		
+			ul#nav li a{color: #ffffff; border-color: #ffffff;}
+		
+			ul#nav li a:hover{color: #ffffff; border-color: #ffffff;}
+		
+			.copyright, .footer-text, .logo .tagline{color: #f1f1f1;}
+		
+			.copyright a, .footer-text a, .logo .tagline a{color: #f1f1f1;}
+		
+			.copyright a:hover, .footer-text a:hover, .logo .tagline a:hover{color: #f1f1f1;}
+		
+
